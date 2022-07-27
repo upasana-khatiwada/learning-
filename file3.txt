@@ -14,6 +14,16 @@ To Get Help:
 Initialize a Repository
 => git init
 
+push our code to github
+git push origin master
+git diff --staged
+
+to commit the changes 
+git commit -m "message"
+
+git checkout address (repository code https)
+git checkout master
+
 To Add File To Staging Area
 => git add filename => git add filename1 filename2 => git add . [To Add All Files In Directory]
 
